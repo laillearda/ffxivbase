@@ -1,0 +1,22 @@
+[
+	{
+		"Author": "Laille",
+		"Name": "Laille FFXIV Base Models",
+		"Description": "Auto package with Bibi, SE and others",
+		"InternalName": "Laille FFXIV Base",
+		"AssemblyVersion": "1.0.0",
+		"TestingAssemblyVersion": "1.0.0",
+		"RepoUrl": "https://github.com/laillearda/ffxivbase",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 5,
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+		"DownloadCount": 0,
+		"LastUpdate": 0,
+		"DownloadLinkInstall": "https://github.com/laillearda/ffxivbase",
+		"DownloadLinkTesting": "https://github.com/laillearda/ffxivbase",
+		"DownloadLinkUpdate": "https://github.com/laillearda/ffxivbase",
+		"IconUrl": "",
+		"Tags": ["ui", "sclupt", "bibo", "thebodyse"]
+	}
+]
